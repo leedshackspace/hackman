@@ -1,0 +1,6 @@
+[submodule "hackman-api"]
+	path = hackman-api
+	url = https://github.com/leedshackspace/hackman-api
+[submodule "hackman-ui"]
+	path = hackman-ui
+	url = https://github.com/leedshackspace/hackman-ui
